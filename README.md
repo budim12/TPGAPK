@@ -1,2 +1,2 @@
 # TPGAPK
-APK App from PT. Thong Putra Group  
+Mobile App from PT. Thong Putra Group  
